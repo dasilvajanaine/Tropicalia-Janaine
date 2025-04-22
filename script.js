@@ -8,6 +8,7 @@ document.addEventListener('DOMContentLoaded', function(){
             opcoesDeAcessibilidade.classList.toggle('apresenta-lista')
     });
 
+       const botaoelecionao
 
     const aumentaFonteBotao = document.getElementById('aumentar-fonte');
     const diminuiFonteBotao = document.getElementById('diminuir-fonte');
